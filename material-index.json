@@ -1,0 +1,12 @@
+[
+  {
+    "path": "fixtures/band.json",
+    "sha256": "ecd13cd04534641d4a1c4e6028bf4bf3201ea831586123edf0661dc2d1e5e831",
+    "size_bytes": 221
+  },
+  {
+    "path": "fixtures/stream.jsonl",
+    "sha256": "aa1f6eb5e8576ec7357af5e537c968a704a69b958b66a5a97a971dcec491411f",
+    "size_bytes": 653
+  }
+]

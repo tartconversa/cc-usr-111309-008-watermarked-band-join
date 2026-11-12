@@ -1,0 +1,13 @@
+{
+  "early": 2,
+  "late": 3,
+  "band_closed": true,
+  "watermark_future_time": "greater_or_equal",
+  "late_policy": "side_output_no_rewrite",
+  "buffer_max_records": 3,
+  "checkpoint_offsets": [
+    2,
+    4,
+    7
+  ]
+}

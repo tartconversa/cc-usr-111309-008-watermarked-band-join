@@ -1,0 +1,8 @@
+{"source_offset": 0, "kind": "record", "side": "L", "record_id": "l1", "device": "d", "time": 10}
+{"source_offset": 1, "kind": "record", "side": "R", "record_id": "r1", "device": "d", "time": 8}
+{"source_offset": 2, "kind": "watermark", "side": "R", "W": 13}
+{"source_offset": 3, "kind": "record", "side": "R", "record_id": "r2", "device": "d", "time": 13}
+{"source_offset": 4, "kind": "watermark", "side": "R", "W": 14}
+{"source_offset": 5, "kind": "record", "side": "R", "record_id": "late13", "device": "d", "time": 13}
+{"source_offset": 6, "kind": "watermark", "side": "L", "W": 100}
+{"source_offset": 7, "kind": "watermark", "side": "R", "W": 100}
